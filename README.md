@@ -24,7 +24,7 @@
 
 * :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado a mis aliados Excel y PowerBI.
 
-* :heartbeat: Continuamente buscando nuevas formas de automatizar mi trabajo
+* :compass: Continuamente buscando nuevas formas de automatizar mi trabajo
 
 * :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-JuanMa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jmpividori/)
 
