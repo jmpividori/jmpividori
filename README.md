@@ -48,7 +48,7 @@
 
 ### :computer: Mis proyectos :
 
-* https://github.com/jmpividori/A-B-Test-webpage-advertisement.git
+* [A/B Test on advertisement webpage](https://github.com/jmpividori/A-B-Test-webpage-advertisement.git)
 
 ### :chart_with_upwards_trend: Mis estadísticas :
 
