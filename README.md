@@ -11,26 +11,26 @@
 <img src="https://komarev.com/ghpvc/?username=jmpividori&color=00cf00" alt=""/>
 
 <h1>
-  Hola soy Juan Martín. ¡Encantado de conocerte!
+  Hello, I'm Juan Martín. Nice to meet you!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 ---
  <div id="header" align="left">
 
-### :man_technologist: Sobre mí :
+### :man_technologist: About me :
 
-* :telescope: Actualmente me encuentro trabajando en la oficina técnica de empresa de servicios de saneamiento pero necesito nuevos retos :muscle:
+:blue_book: I am a Chemical Engineer and have been working as one since 2017.
 
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado a mis aliados Excel y PowerBI.
+:seedling: Throughout my career, I have had the opportunity to work in industries such as Food, Biotechnology, I&D, and Services. 
 
-* :compass: Continuamente buscando nuevas formas de automatizar mi trabajo
+:compass: Starting in 2021, I began exploring Data Analytics and Data Science with the goal of enhancing my professional profile, not knowing it would become my new career.
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-JuanMa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jmpividori/)
+:mailbox: Contact [![Linkedin Badge](https://img.shields.io/badge/-JuanMa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jmpividori/)
 
    ---
 
-### :hammer_and_wrench: Lenguajes y herramientas :
+### :hammer_and_wrench: Programming languages and tools :
    
 <div id="header" align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
@@ -46,11 +46,11 @@
 
 ---
 
-### :computer: Mis proyectos :
+### :computer: My projects :
 
 * [A/B Test on advertisement webpage](https://github.com/jmpividori/A-B-Test-webpage-advertisement.git)
 
-### :chart_with_upwards_trend: Mis estadísticas :
+### :chart_with_upwards_trend: My stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jmpividori&theme=dark&background=000000)](https://git.io/streak-stats)
 
