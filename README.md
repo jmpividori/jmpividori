@@ -20,7 +20,7 @@
 
 ### :man_technologist: About me :
 
-:blue_book: I am a Chemical Engineer and have been working as one since 2017.
+:blue_book: I am a Chemical Engineer and have been working in this field since 2017.
 
 :seedling: Throughout my career, I have had the opportunity to work in industries such as Food, Biotechnology, I&D, and Services. 
 
