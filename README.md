@@ -49,6 +49,10 @@
 ### :computer: My projects :
 
 * [A/B Test on advertisement webpage](https://github.com/jmpividori/A-B-Test-webpage-advertisement.git)
+  
+* [API Connection and ETL](https://github.com/jmpividori/API-connection-and-ETL)
+  
+* [EXCEL-VBA-Report-Manager](https://github.com/jmpividori/EXCEL-VBA-Report-Manager)
 
 ### :chart_with_upwards_trend: My stats :
 
